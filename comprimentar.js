@@ -18,6 +18,6 @@ function diaAtual(){
 }
 
 
-cumprimentar('Luiz😍');
-cumprimentar('Fernando😁');
-cumprimentar('Yasmin😒');
+cumprimentar('Luiz😿🐦‍⬛');
+cumprimentar('Fernando🤪');
+cumprimentar('Lucas💪🏼');
